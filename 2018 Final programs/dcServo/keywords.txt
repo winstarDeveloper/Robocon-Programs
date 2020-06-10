@@ -1,0 +1,8 @@
+dcServo	KEYWORD1
+Forward	KEYWORD1
+Reverse	KEYWORD1
+Stop	KEYWORD1
+Position	KEYWORD1
+setMaxSpeed	KEYWORD1
+getPidValue	KEYWORD1
+setPidValue	KEYWORD1
